@@ -1,4 +1,4 @@
-# MIT License
+## MIT License
 > Copyright © 2025 Daniel Perez
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
